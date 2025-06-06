@@ -12,6 +12,7 @@
     <key>ru</key>
     <value>Справочник андрей</value>
   </synonym>
+  <comment>+++</comment>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.СправочникАндрей.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.СправочникАндрей.StandardAttribute.Description</inputByString>
