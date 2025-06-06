@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f0e02d05-d16d-47ef-bcd1-3139a425534f">
+  <producedTypes>
+    <refType typeId="bf9cbd28-e1bf-4dfe-bf03-c5e84f4f63dd" valueTypeId="54e6aca0-1076-4913-b7fb-df09aeb7e73b"/>
+    <listType typeId="27598bce-55ad-4f62-b252-aa73fdb38301" valueTypeId="c990fc27-2833-408d-886d-5bf2f81d2ea2"/>
+    <managerType typeId="72839730-060c-4c22-a18c-1aa056d59a64" valueTypeId="395ab954-6edb-4326-9022-dc17804711fd"/>
+  </producedTypes>
+  <name>Разработчик</name>
+  <synonym>
+    <key>ru</key>
+    <value>Разработчик</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="3f4cfb77-8e1a-43e4-97bf-18b1463981ab">
+    <name>Василий</name>
+    <synonym>
+      <key>ru</key>
+      <value>Василий</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="6b3ec10c-1448-4106-994d-b6765f65cd53">
+    <name>Андрей</name>
+    <synonym>
+      <key>ru</key>
+      <value>Андрей</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
